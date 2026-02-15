@@ -6,15 +6,16 @@
  ## 👥 Group Members
 *
 
-1.  **[Keren Kuma Lartey]** - [11173490]
-2.  **[Richmond Andoh]** - [11254304]
-3.  **[Member Name]** - [ID]
-4.  **[Member Name]** - [ID]
-5.  **[Member Name]** - [ID]
-6.  **[Member Name]** - [ID]
-7.  **[Member Name]** - [ID]
-8.  **[Member Name]** - [ID]
-9.  **[Member Name]** - [ID]
+| No. | Student Name | Student ID |
+| :--- | :--- | :--- |
+| 1 | **Keren Kuma Lartey** | 11173490 |
+| 2 | **Favour Ackonu** | 11014111 |
+| 3 | **Ebenezer Ofori Acquah** | 11154989 |
+| 4 | **EMMANUEL FRIMPONG KWAO** | 11353279 |
+| 5 | **Osei Jephthah Afriyie** | 11354112 |
+| 6 | **Kwesi Ahenkorah Gyamenah** | 11116940 |
+| 7 | **Fenteng Kwame Michael** | 11210750 |
+| 8 | **Richmond Manu Andoh** | 11254304 |
 
 ---
 
