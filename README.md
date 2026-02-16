@@ -16,7 +16,7 @@
 | 6 | **Kwesi Ahenkorah Gyamenah** | 11116940 |
 | 7 | **Fenteng Kwame Michael** | 11210750 |
 | 8 | **Richmond Manu Andoh** | 11254304 |
-| 9 | **Bless Adeti** | 11015523 |
+| 9 | **Naaba Abdul-Takilu** | 11214492|
 
 ---
 
