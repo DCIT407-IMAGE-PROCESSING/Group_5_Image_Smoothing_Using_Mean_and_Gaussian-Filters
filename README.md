@@ -16,6 +16,7 @@
 | 6 | **Kwesi Ahenkorah Gyamenah** | 11116940 |
 | 7 | **Fenteng Kwame Michael** | 11210750 |
 | 8 | **Richmond Manu Andoh** | 11254304 |
+| 9 | **Bless Adeti** | 11015523 |
 
 ---
 
@@ -69,6 +70,40 @@ The project is implemented in **Python** using the following scientific stack:
 * **OpenCV (`cv2`):** For efficient image I/O and applying filter kernels.
 * **NumPy:** For matrix operations and generating synthetic Gaussian noise.
 * **Matplotlib:** For visualizing the spatial domain results and histograms.
+
+
+---
+
+## 4. Evaluation Metrics
+
+To quantitatively and qualitatively compare the Mean and Gaussian filters, the following evaluation criteria are used:
+
+### 4.1 Mean Squared Error (MSE)
+
+The **Mean Squared Error (MSE)** measures the average squared difference between the original image and the filtered image:
+
+$$
+MSE = \frac{1}{MN} \sum_{x=1}^{M} \sum_{y=1}^{N} \left[ f(x,y) - g(x,y) \right]^2
+$$
+
+Where:
+- $f(x,y)$ is the original image  
+- $g(x,y)$ is the filtered image  
+- $M \times N$ is the image size  
+
+Lower MSE values indicate better noise reduction while preserving image fidelity.
+
+### 4.2 Visual Analysis
+
+In addition to numerical evaluation, visual inspection is performed to assess:
+
+- Edge preservation  
+- Degree of smoothing  
+- Presence of artifacts (e.g., ringing or excessive blurring)  
+
+Combining quantitative metrics with visual analysis provides a more comprehensive comparison of filter performance.
+
+---
 
 ### Project Structure
 ```text
